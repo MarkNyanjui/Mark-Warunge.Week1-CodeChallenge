@@ -11,7 +11,7 @@ This was a code challenge comprised of 3 different tasks, the scripting of:-
 1) ### Student Grade Generator
 This is a program that prompts the user to input student marks, after which it calculates the correct grade to be issued to the student. 
 
-2) ### Speed Detector
+2) ### Demerit Point Calculator
 This is a program that evaluates the speed of a car and then returns the number of demerit points based on how far the speed of the vehicle exceeds the speed limit.
 
 3) ### Net Salary Calculator
